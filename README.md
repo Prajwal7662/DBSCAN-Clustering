@@ -1,6 +1,5 @@
-# DBSCAN Clustering — README 🚀
+# DBSCAN Clustering 🚀
 
-**Notebook:** `/mnt/data/DBSCAN_Clustering.ipynb`
 
 ## Project overview 📌
 
@@ -116,23 +115,4 @@ df.to_csv('dbscan_clusters.csv', index=False)
 
 ---
 
-## Attribution / Author
 
-Prepared for: **Prajwal Mavkar**.
-Notebook path: `/mnt/data/DBSCAN_Clustering.ipynb`.
-
----
-
-## License
-
-MIT License — feel free to reuse for coursework or projects; please credit the original author when reusing substantial portions.
-
----
-
-## Next steps (optional) ➡️
-
-* Generate a `requirements.txt` based on imports in this notebook.
-* Create a `run_dbscan.py` script to run parameter sweeps and save outputs.
-* Convert notebook into a short README + example script for reproducible experiments.
-
-*If you want, I can generate the `requirements.txt` and `run_dbscan.py` now.*
